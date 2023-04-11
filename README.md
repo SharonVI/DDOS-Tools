@@ -19,7 +19,9 @@
 ![](https://img.shields.io/badge/How-Use-important)
 
 **Usage Pyslow Method : python (LH)DDOS.py -d www.example.com -p 80 -T 2000 -Pyslow**
+
 **Usage Synflood Method : python (LH)DDOS.py -d www.example.com -Synflood -T 5000 -t 10.0**
+
 **Usage Request Method : python (LH)DDOS.py -d www.example.com -s 100 -Request
 
 **Team : Sharon IV - Sharon VI**
