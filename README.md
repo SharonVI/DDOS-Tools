@@ -2,7 +2,7 @@
 
 ✔ Legacy Hacker DDOS Attacks - Ez DDOS Attacks 
 
-![](https://img.shields.io/badge/Language-Python-blueviolet) ![](https://img.shields.io/badge/Format-EXE-red) ![](https://img.shields.io/badge/Platform-Windows-ff69b4) ![](https://img.shields.io/badge/Creator%20-Sharon%20V-informational)
+![](https://img.shields.io/badge/Language-Python-blueviolet) ![](https://img.shields.io/badge/Format-Py-red) ![](https://img.shields.io/badge/Platform-Windows-ff69b4) ![](https://img.shields.io/badge/Creator%20-Sharon%20V-informational)
 
 <a href="https://www.youtube.com/channel/UCSUG894jzlzMkmWcahiyyXA">
   <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
