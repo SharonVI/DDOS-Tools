@@ -25,4 +25,4 @@
 **Team : Sharon IV - Sharon VI**
 The software is placed as an exe file to preserve the source code of the software
 
-![](https://s6.uupload.ir/files/bandicam_2023-04-11_07-25-03-927_42ou.jpg)
+![](https://s6.uupload.ir/files/bandicam_2023-04-11_07-41-17-985_in6k.jpg)
